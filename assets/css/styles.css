@@ -49,10 +49,13 @@ li.dropdown {
   display: block;
 }
 .background_image{
- background-image:url("assets/images/landscape.jpeg")
-    
+ 
+   
+    background-image: url(/assets/images/landscape.jpeg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+  
+}
 }
