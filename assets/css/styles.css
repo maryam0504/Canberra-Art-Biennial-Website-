@@ -212,7 +212,7 @@ div.desc {
     margin-bottom: 2%;  
 }
 .pic3{
-    width: 300%;
+    width: 300px;
     height: auto;
     object-fit: scale-down;
      
@@ -220,4 +220,8 @@ div.desc {
 .title{
     margin-left: 10%;
     
+}
+.news {
+    margin-top: 15%;
+    margin-bottom: 10%;
 }
