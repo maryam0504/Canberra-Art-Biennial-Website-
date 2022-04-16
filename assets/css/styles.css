@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: tan;
 }
 
 li {
@@ -19,7 +19,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: black;
 }
 
 li.dropdown {
@@ -58,4 +58,39 @@ li.dropdown {
     background-position: center;
   
 }
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: black;
+}
+.button:hover{background-color: dimgrey}
+
+.move{
+    margin-left: 5%;
+}
+h1{
+    font-size: 2.5rem;   
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.75rem;
+}
+h4{
+    font-size: 1.5rem;
+}
+h5{
+    font-size: 1.25rem;
+}
+body{
+    font-family:"Helvetica Neue", Arial, sans-serif;
 }
