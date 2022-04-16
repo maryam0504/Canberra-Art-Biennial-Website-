@@ -206,3 +206,18 @@ div.desc {
 }
 * {box-sizing: border-box;
 }
+.news_div{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 2%;  
+}
+.pic3{
+    width: 300%;
+    height: auto;
+    object-fit: scale-down;
+     
+}
+.title{
+    margin-left: 10%;
+    
+}
